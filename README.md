@@ -6,6 +6,8 @@ I am Rahul Gupta, currently a sophomore at High Technology High School.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrocketter&layout=compact&theme=calm)
 
+[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rrocketter&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)]
+
 
 
 <!--
