@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![Rahul's's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrocketter)](https://github.com/rrocketter/github-readme-stats)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrocketter&show_icons=true&theme=calm)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrocketter&layout=compact)
+
+
 
 <!--
 **Rrocketter/Rrocketter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
