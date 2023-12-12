@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Rahul's's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrocketter)](https://github.com/rrocketter/github-readme-stats)
+
 <!--
 **Rrocketter/Rrocketter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
