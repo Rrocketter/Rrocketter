@@ -45,3 +45,5 @@ Here are some ideas to get you started:
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrocketter&show_icons=true&theme=calm)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrocketter&layout=compact&theme=calm)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
