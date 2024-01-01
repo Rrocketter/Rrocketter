@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rrocketter&theme=radical)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D GitHub](./profile-3d-contrib/profile-night-rainbow.svg)
