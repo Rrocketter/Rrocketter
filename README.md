@@ -46,4 +46,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrocketter&layout=compact&theme=calm)
 
+https://streak-stats.demolab.com?user=Rrocketter&theme=radical
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
