@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrocketter&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rrocketter&theme=radical)
+![GitHub Streak]([https://streak-stats.demolab.com?user=Rrocketter&theme=radical](https://streak-stats.demolab.com/?user=Rrocketter&theme=radical)https://streak-stats.demolab.com/?user=Rrocketter&theme=radical)
 
 ![3D GitHub](./profile-3d-contrib/profile-night-rainbow.svg)
