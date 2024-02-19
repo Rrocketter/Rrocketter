@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [rgupta.vercel.app](https://rgupta.vercel.app)
 
-- 📝 I regularly write articles on [rahulrocket711.wordpress.com](rahulrocket711.wordpress.com)
+- 📝 I regularly write articles on [rahulrocket711.wordpress.com](https://rahulrocket711.wordpress.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
