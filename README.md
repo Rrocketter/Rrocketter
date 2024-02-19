@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Deep Learning & Neural Nets**
 
-- 👨‍💻 All of my projects are available at [rgupta.vercel.app](rgupta.vercel.app)
+- 👨‍💻 All of my projects are available at [rgupta.vercel.app](https://rgupta.vercel.app)
 
 - 📝 I regularly write articles on [rahulrocket711.wordpress.com](rahulrocket711.wordpress.com)
 
