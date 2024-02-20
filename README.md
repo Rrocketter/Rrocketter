@@ -48,4 +48,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rrocketter&theme=radical)](https://git.io/streak-stats)
 
+<img src="https://raw.githubusercontent.com/rrocketter/rrocketter/output/snake.svg" alt="Snake animation" />
+
+###
+
 ![3D GitHub](./profile-3d-contrib/profile-night-rainbow.svg)
