@@ -50,6 +50,4 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/rrocketter/rrocketter/output/snake.svg" alt="Snake animation" />
 
-###
-
 ![3D GitHub](./profile-3d-contrib/profile-night-rainbow.svg)
