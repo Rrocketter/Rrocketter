@@ -48,6 +48,10 @@ Here are some ideas to get you started:
 <a target="blank"><img align="center" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="rrocketter" /></a>
 <a target="blank"><img align="center" src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white" alt="rrocketter" /></a>
 <a target="blank"><img align="center" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=whitee" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="rrocketter" /></a>
+
  
 </p>
 
