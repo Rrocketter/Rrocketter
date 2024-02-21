@@ -56,8 +56,24 @@ Here are some ideas to get you started:
 <a target="blank"><img align="center" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white" alt="rrocketter" /></a>
 <a target="blank"><img align="center" src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white" alt="rrocketter" /></a>
 <a target="blank"><img align="center" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="rrocketter" /></a>
+</p>
 
-
+### ML:
+<p align="center">
+<a target="blank"><img align="center" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="rrocketter" /></a>
+ 
+<a target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="rrocketter" /></a>
 </p>
 
 
