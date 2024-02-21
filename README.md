@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@rahul.rocket711" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="@rahul.rocket711" /></a>
 </p>
 
-<h3 align="center">Lanuages:</h3>
+## Lanuages:
 <p align="center">
-<a href="https://linkedin.com/in/rrocketter" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="rrocketter" /></a>
 </p>
 
 
