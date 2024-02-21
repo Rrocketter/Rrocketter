@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@rahul.rocket711" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="@rahul.rocket711" /></a>
 </p>
 
-<h3>Lanuages:</h3>
+<h3 align="left">Lanuages:</h3>
 <p align="left">
-<a target="blank" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
+<a target="blank" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="js"/></a>
 </p>
 
 
