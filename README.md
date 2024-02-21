@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 <p align="center">
 <a target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="rrocketter" /></a>
 <a target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=whitee" alt="rrocketter" /></a>
  
 </p>
 
