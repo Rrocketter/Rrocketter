@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 </p>
 
 <h3>Lanuages:</h3>
-<a src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/> </a>
+<a target="blank" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
+
 
 
  <!-- <h3 align="left">Languages and Tools:</h3>
