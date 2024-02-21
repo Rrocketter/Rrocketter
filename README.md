@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 </p>
 
 <h3>Lanuages:</h3>
+<p align="left">
 <a target="blank" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
-
+</p>
 
 
  <!-- <h3 align="left">Languages and Tools:</h3>
