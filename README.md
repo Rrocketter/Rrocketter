@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 ## Lanuages:
 <p align="center">
 <a target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="rrocketter" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="rrocketter" /></a>
+ 
 </p>
 
 
