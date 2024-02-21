@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on [rahulrocket711.wordpress.com](https://rahulrocket711.wordpress.com)
 
 <p align="center">
-## Connect with me:
+<span style="font-size: 24px; font-weight: bold;">## Connect with me:</span>
+
 <a href="https://linkedin.com/in/rrocketter" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="rrocketter" /></a>
 <a href="https://medium.com/@rahul.rocket711" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="@rahul.rocket711" /></a>
 </p>
