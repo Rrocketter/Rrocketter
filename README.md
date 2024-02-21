@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
  <!-- - 🔭 I’m currently working on **RG-Lang** -->
 
-- 🌱 I’m currently learning **Deep Learning & Neural Nets** and <a target="blank"><img align="center" src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white" /></a>
-<a target="blank"><img align="center" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/></a> and 
+- 🌱 I’m currently learning **Deep Learning & Neural Nets** , <a target="blank"><img align="center" src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white" /></a>, and 
+<a target="blank"><img align="center" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/></a>
 
 - 👨‍💻 All of my projects are available at [rgupta.vercel.app](https://rgupta.vercel.app)
 
