@@ -30,15 +30,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Deep Learning & Neural Nets** , <a target="blank"><img align="center" src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white" /></a>, and 
 <a target="blank"><img align="center" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/></a>
 
-- 👨‍💻 All of my projects are available at [rgupta.vercel.app](https://rgupta.vercel.app)
+<!-- - 👨‍💻 All of my projects are available at [rgupta.vercel.app](https://rgupta.vercel.app) -->
 
-- 📝 I regularly write articles on [rahulrocket711.wordpress.com](https://rahulrocket711.wordpress.com)
+<!-- - 📝 I regularly write articles on [rahulrocket711.wordpress.com](https://rahulrocket711.wordpress.com) -->
 
 
 ## Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/rrocketter" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="rrocketter" /></a>
-<a href="https://medium.com/@rahul.rocket711" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="@rahul.rocket711" /></a>
+<!-- <a href="https://medium.com/@rahul.rocket711" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="@rahul.rocket711" /></a> -->
 </p> 
 
 ## Lanuages:
