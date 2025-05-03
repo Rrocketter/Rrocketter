@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
-<!-- <h3 align="center">Junior at HTHS</h3> -->
 
  <!-- - 🔭 I’m currently working on **RG-Lang** -->
 
@@ -35,11 +34,12 @@ Here are some ideas to get you started:
 <!-- - 📝 I regularly write articles on [rahulrocket711.wordpress.com](https://rahulrocket711.wordpress.com) -->
 
 
-## Connect with me:
+<!-- ## Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/rrocketter" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="rrocketter" /></a>
-<!-- <a href="https://medium.com/@rahul.rocket711" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="@rahul.rocket711" /></a> -->
+ <a href="https://medium.com/@rahul.rocket711" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="@rahul.rocket711" /></a> 
 </p> 
+-->
 
 ## Lanuages:
 <p align="center">
